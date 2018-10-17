@@ -5,6 +5,7 @@ total_breaks = 3
 break_count = 0
 master1 = 0
 master2 = 0
+master3 = 0
 print('This program stared on ' + time.ctime())
 while(break_count < total_breaks):
     time.sleep(10)
