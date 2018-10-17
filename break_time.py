@@ -13,3 +13,4 @@ while(break_count < total_breaks):
 branch1 = 0
 branch2 = 0
 branch3 = 0
+branch4 = 0
